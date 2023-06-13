@@ -290,9 +290,8 @@ left: 6.25%;
 right: 6.25%;
 top: 12.5%;
 bottom: 12.52%;
-
-background: #5F5F5F;
+opacity:0.7;
 }
 .wish img:hover{
-background: white;
+opacity:1;
 }
